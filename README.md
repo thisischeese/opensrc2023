@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=open%20Source&fontSize=90)
-# opensrc2023 : 오픈소스 기초설계 실습 제안서_최다은_20212222
+# 오픈소스 기초설계 실습 제안서_최다은_20212222
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 ## 주제: 영상 처리 기술을 이용한 개인용공유장치 안전 주행 유도 시스템
 
