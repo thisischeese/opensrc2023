@@ -1,5 +1,5 @@
 # opensrc2023
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-#3776AB?style=flat&logo=TypeScript&logoColor=white"/>
 20212222_최다은_오픈소스기초설계 실습
 ## 주제: 영상 처리 기술을 이용한 개인용공유장치 안전 주행 유도 시스템
 
