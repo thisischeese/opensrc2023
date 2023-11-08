@@ -10,16 +10,16 @@ def add(x, y):
  def divide(x, y):
     return x / y
 
- print("»çÄ¢¿¬»êÀ» ¼±ÅÃ ÇÏ¼¼¿ä.")
- print("1.´õÇÏ±â")
- print("2.»©±â")
- print("3.°öÇÏ±â")
- print("4.³ª´©±â")
+ print("ì‚¬ì¹™ì—°ì‚°ì„ ì„ íƒ í•˜ì„¸ìš”.")
+ print("1.ë”í•˜ê¸°")
+ print("2.ë¹¼ê¸°")
+ print("3.ê³±í•˜ê¸°")
+ print("4.ë‚˜ëˆ„ê¸°")
 
- choice = input("¼±ÅÃ ÇÏ¼¼¿ä(1/2/3/4):")
+ choice = input("ì„ íƒ í•˜ì„¸ìš”(1/2/3/4):")
 
- num1 = int(input("Ã¹¹øÂ° ¼ıÀÚ : "))
- num2 = int(input("µÎ¹øÂ° ¼ıÀÚ : "))
+ num1 = int(input("ì²«ë²ˆì§¸ ìˆ«ì : "))
+ num2 = int(input("ë‘ë²ˆì§¸ ìˆ«ì : "))
 
  if choice == '1':
     print(num1,"+",num2,"=", add(num1,num2))
@@ -33,4 +33,4 @@ def add(x, y):
  elif choice == '4':
     print(num1,"/",num2,"=", divide(num1,num2))
  else:
-    print("Àß¸øµÈ ¼±ÅÃ")
+    print("ì˜ëª»ëœ ì„ íƒ")
